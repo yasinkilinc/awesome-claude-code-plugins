@@ -386,6 +386,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 
 ### Knowledge Management
 - [bedrock](./plugins/bedrock)
+- [eos](https://github.com/yasinkilinc/eos-agent) - Local project memory for Claude Code. Hooks hand each session a brief of the task's procedure, its last runs and lesson, plus notes earlier sessions wrote, marked stale when the file they describe changes. Also indexes code for impact analysis. Pure Python stdlib: no LLM calls, no embeddings, no server.
 
 ## External Marketplaces
 
